@@ -13,8 +13,6 @@ An AI agent is a system that perceives its environment, makes decisions, and tak
 
 ## Types of AI Agents
 
-## 🧠 Types of AI Agents
-
 | **Type**               | **Description**                                                             | **Example**                      |
 |------------------------|------------------------------------------------------------------------------|----------------------------------|
 | Simple Reflex Agent    | Acts only on current perception using predefined rules                      | Thermostat adjusting temperature, Speed limit alerts, Barcode scanners, Temperature-based fan control |
